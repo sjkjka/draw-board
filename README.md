@@ -9,3 +9,5 @@ You can select an eraser to erase your wrong lines.
 
 Of course, you can also empty the drawing board, and finally save and share it
 
+![image](https://github.com/sjkjka/draw-board/blob/master/392x696bb-2.jpg)
+
